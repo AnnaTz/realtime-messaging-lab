@@ -1,0 +1,230 @@
+destination IP: 10.0.89.29
+time: 1570394976   ---   message: 8997_8880_1570387645_The ships hung in the sky in much the same way that bricks don't! #0
+time: 1570394976   ---   message: 8918_8945_1570394976_Hi there my friend
+number of  messages sent: 2
+duration: 28350
+
+
+destination IP: 10.0.89.97
+time: 1570395150   ---   message: 8929_8861_1570394713_Hello
+time: 1570395150   ---   message: 8929_8932_1570394893_Hello
+time: 1570395150   ---   message: 8929_8532_1570395080_Hello
+time: 1570395150   ---   message: 8918_8989_1570395150_Hi there my friend
+number of  messages sent: 4
+duration: 42538
+
+
+destination IP: 10.0.89.97
+time: 1570395432  ---   message: 8918_8861_1570395432_Hi there my friend
+number of  messages sent: 1
+duration: 32451
+
+
+destination IP: 10.0.89.29
+time: 1570395640  ---   message: 8918_8962_1570395640_Hi there my friend
+number of  messages sent: 1
+duration: 50789
+
+
+destination IP: 10.0.89.97
+time: 1570395920   ---   message: 8918_8943_1570395920_Hi there my friend
+number of  messages sent: 1
+duration: 18456
+
+
+destination IP: 10.0.89.29
+time: 1570396157   ---   message: 8918_8929_1570396157_Hi there my friend
+number of  messages sent: 1
+duration: 32456
+
+
+destination IP: 10.0.89.29
+time: 1570396421   ---   message: 8918_8880_1570396421_Hi there my friend
+number of  messages sent: 1
+duration: 31679
+
+
+destination IP: 10.0.89.97
+time: 1570396676   ---   message: 8918_8989_1570396676_Hi there my friend
+number of  messages sent: 1
+duration: 45689
+
+
+destination IP: 10.0.89.29
+time: 1570396835   ---   message: 8918_8962_1570396835_Hi there my friend
+number of  messages sent: 1
+duration: 55241
+
+
+destination IP: 10.0.89.97
+time: 1570396962   ---   message: 8918_8923_1570396962_Hi there my friend
+number of  messages sent: 1
+duration: 16189
+
+
+destination IP: 10.0.89.97
+time: 1570397077   ---   message: 8918_8962_1570397077_Hi there my friend
+number of  messages sent: 1
+duration: 54678
+
+
+destination IP: 10.0.89.29
+time: 1570397377   ---   message: 8997_8861_1570389641_The ships hung in the sky in much the same way that bricks don't! #11
+time: 1570397377   ---   message: 8997_8929_1570389882_The ships hung in the sky in much the same way that bricks don't! #12
+time: 1570397377   ---   message: 8997_8929_1570390081_The ships hung in the sky in much the same way that bricks don't! #13
+time: 1570397377   ---   message: 8918_8989_1570397377_Hi there my friend
+number of  messages sent: 4
+duration: 37010
+
+
+destination IP: 10.0.89.97
+time: 1570397593   ---   message: 8929_8845_1570396796_Hello
+time: 1570397593   ---   message: 8929_8932_1570396978_Hello
+time: 1570397593   ---   message: 8929_8932_1570397043_Hello
+time: 1570397593   ---   message: 8929_8932_1570397106_Hello
+time: 1570397593   ---   message: 8929_8532_1570396611_Hello
+time: 1570397593   ---   message: 8929_8892_1570397409_Hello
+time: 1570397593   ---   message: 8918_8945_1570397593_Hi there my friend
+number of  messages sent: 7
+duration: 163170
+
+
+destination IP: 10.0.89.29
+time: 1570397912   ---   message: 8918_8861_1570397912_Hi there my friend
+number of  messages sent: 1
+duration: 48910
+
+
+destination IP: 10.0.89.29
+time: 1570398112   ---   message: 8997_8844_1570390788_The ships hung in the sky in much the same way that bricks don't! #16
+time: 1570398112   ---   message: 8918_8943_1570398112_Hi there my friend
+number of  messages sent: 2
+duration: 54212
+
+
+destination IP: 10.0.89.97
+time: 1570398290   ---   message: 8929_8888_1570397840_Hello
+time: 1570398290   ---   message: 8929_8861_1570398085_Hello
+time: 1570398290   ---   message: 8929_8892_1570398148_Hello
+time: 1570398290   ---   message: 8918_8943_1570398290_Hi there my friend
+number of  messages sent: 4
+duration: 33760
+
+
+destination IP: 10.0.89.29
+time: 1570398569   ---   message: 8918_8921_1570398569_Hi there my friend
+number of  messages sent: 1
+duration: 17890
+
+
+destination IP: 10.0.89.29
+time: 1570398869   ---   message: 8997_8929_1570391487_The ships hung in the sky in much the same way that bricks don't! #19
+time: 1570398869   ---   message: 8997_8861_1570391568_The ships hung in the sky in much the same way that bricks don't! #20
+time: 1570398869   ---   message: 8918_8962_1570398869_Hi there my friend
+number of  messages sent: 3
+duration: 31153
+
+
+destination IP: 10.0.89.97
+time: 1570398989   ---   message: 8929_8888_1570398570_Hello
+time: 1570398989   ---   message: 8929_8956_1570398692_Hello
+time: 1570398989   ---   message: 8929_8861_1570398813_Hello
+time: 1570398989   ---   message: 8929_8861_1570398883_Hello
+time: 1570398989   ---   message: 8918_8921_1570398989_Hi there my friend
+number of  messages sent: 5
+duration: 44696
+
+
+destination IP: 10.0.89.29
+time: 1570399201   ---   message: 8997_8844_1570391942_The ships hung in the sky in much the same way that bricks don't! #22
+time: 1570399201   ---   message: 8918_8945_1570399201_Hi there my friend
+number of  messages sent: 2
+duration: 23540
+
+
+destination IP: 10.0.89.97
+time: 1570399280   ---   message: 8929_8997_1570399128_Hello
+time: 1570399280   ---   message: 8918_8934_1570399280_Hi there my friend
+number of  messages sent: 2
+duration: 15788
+
+
+destination IP: 10.0.89.29
+time: 1570399479   ---   message: 8918_8943_1570399479_Hi there my friend
+number of  messages sent: 1
+duration: 21346
+
+
+destination IP: 10.0.89.29
+time: 1570399679   ---   message: 8918_8997_1570399679_Hi there my friend
+number of  messages sent: 1
+duration: 10607
+
+
+destination IP: 10.0.89.97
+time: 1570399782   ---   message: 8929_9231_1570399618_Hello
+time: 1570399782   ---   message: 8918_8989_1570399782_Hi there my friend
+number of  messages sent: 2
+duration: 19105
+
+
+destination IP: 10.0.89.29
+time: 1570399943   ---   message: 8918_8923_1570399943_Hi there my friend
+number of  messages sent: 1
+duration: 22567
+
+
+destination IP: 10.0.89.29
+time: 1570400143   ---   message: 8918_8943_1570400143_Hi there my friend
+number of  messages sent: 1
+duration: 70345
+
+
+destination IP: 10.0.89.97
+time: 1570400351   ---   message: 8929_8956_1570399864_Hello
+time: 1570400351   ---   message: 8929_8845_1570400169_Hello
+time: 1570400351   ---   message: 8918_8923_1570400351_Hi there my friend
+number of  messages sent: 3
+duration: 269032
+
+
+destination IP: 10.0.89.29
+time: 1570400385   ---   message: 8918_8921_1570400385_Hi there my friend
+number of  messages sent: 1
+duration: 11237
+
+
+destination IP: 10.0.89.97
+time: 1570400622   ---   message: 8918_8997_1570400622_Hi there my friend
+number of  messages sent: 1
+duration: 23670
+
+
+destination IP: 10.0.89.29
+time: 1570400822   ---   message: 8918_8929_1570400822_Hi there my friend
+number of  messages sent: 1
+duration: 13705
+
+
+destination IP: 10.0.89.29
+time: 1570401128   ---   message: 8918_8943_1570401128_Hi there my friend
+number of  messages sent: 1
+duration: 25216
+
+
+destination IP: 10.0.89.29
+time: 1570401328   ---   message: 8918_8962_1570401328_Hi there my friend
+number of  messages sent: 1
+duration: 11497
+
+
+destination IP: 10.0.89.29
+time: 1570401576   ---   message: 8918_8934_1570401576_Hi there my friend
+number of  messages sent: 1
+duration: 26310
+
+
+destination IP: 10.0.89.29
+time: 1570401776   ---   message: 8918_8880_1570401776_Hi there my friend
+number of  messages sent: 1
+duration: 12987

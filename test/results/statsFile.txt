@@ -1,0 +1,18 @@
+AEM: 8929
+total connection occurrences: 21
+total duration: 637047
+total number of messages sent to: 29
+total number of messages received from: 58
+
+AEM: 8997
+total connection occurrences: 13
+total duration: 779222
+total number of messages sent to: 33
+total number of messages received from: 60
+
+
+total number of sessions: 34
+average duration per session: 41654.970
+average number of messages sent per session: 1.823
+average number of messages received per session: 3.470
+
